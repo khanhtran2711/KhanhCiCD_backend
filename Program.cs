@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+// builder.Services.AddOpenApi();
 
 
 // Configure the HTTP request pipeline.
@@ -27,7 +27,7 @@ app.UseCors("AllowVue");
 app.MapControllers();
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    // app.MapOpenApi();
 }
 
 // app.UseHttpsRedirection();
