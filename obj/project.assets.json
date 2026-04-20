@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cicdtest\\backend\\ServerApi\\ServerApi.csproj",
+      "projectUniqueName": "D:\\cicdtest\\ServerApi\\ServerApi.csproj",
       "projectName": "ServerApi",
-      "projectPath": "D:\\cicdtest\\backend\\ServerApi\\ServerApi.csproj",
+      "projectPath": "D:\\cicdtest\\ServerApi\\ServerApi.csproj",
       "packagesPath": "C:\\Users\\kikac\\.nuget\\packages\\",
-      "outputPath": "D:\\cicdtest\\backend\\ServerApi\\obj\\",
+      "outputPath": "D:\\cicdtest\\ServerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
