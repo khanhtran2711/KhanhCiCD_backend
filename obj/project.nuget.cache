@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ByOD7He3PsM=",
+  "dgSpecHash": "VDqTYPoBs/Q=",
   "success": true,
   "projectFilePath": "D:\\cicdtest\\ServerApi\\ServerApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kikac\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
-    "C:\\Users\\kikac\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\kikac\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\kikac\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
   ],
   "logs": []
 }
